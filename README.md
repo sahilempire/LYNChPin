@@ -21,5 +21,12 @@ The Face Recognition Attendance System is a Python-based application that uses f
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository: https://github.com/sahilempire/LYNChPin
 
+## Contributing
+
+Contributions are welcome! If you have any ideas, improvements, or bug fixes, please submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
