@@ -9,8 +9,6 @@ The Face Recognition Attendance System is a Python-based application that uses f
 
 - Face detection and recognition
 - Attendance logging with date and time
-- Database management for face templates and attendance records
-- Real-time notifications
 
 ## Table of Contents
 
